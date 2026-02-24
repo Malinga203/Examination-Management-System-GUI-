@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nazee\\source\\repos\\GUICW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmchangewedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmchangewedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmchangewedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmchangewedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddstd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddstd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddstd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddstd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmchangecwdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmchangecwdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmleclogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmleclogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmstdlogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmstdlogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmviewexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmviewexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmstdlogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmstdlogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|c:\\users\\nazee\\source\\repos\\guicw\\guicw\\frmviewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmviewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmviewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmviewstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmadmindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmadmindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmadmindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmadmindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmviewmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmviewmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmviewmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmviewmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmadminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddlec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddlec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\crstudent.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\crstudent.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\crgradereport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\crgradereport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmaddlec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmaddlec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmleclogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmleclogindet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmleclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmleclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmstdviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmstdviewgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmstudentdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmstudentdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmstudentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmstudentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmchangecwdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmchangecwdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|C:\\Users\\nazee\\source\\repos\\GUICW\\guicw\\frmgradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE932378-0F6D-40D2-A275-046781937B35}|GUICW\\GUICW.csproj|solutionrelative:guicw\\frmgradereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmViewStudent.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewStudent.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmViewStudent.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewStudent.cs",
+              "RelativeToolTip": "GUICW\\frmViewStudent.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:13:02.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAdminDash.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminDash.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAdminDash.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminDash.cs",
+              "RelativeToolTip": "GUICW\\frmAdminDash.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:08:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAdminDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminDash.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAdminDash.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminDash.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmAdminDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:08:11.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\Form1.cs",
+              "RelativeDocumentMoniker": "GUICW\\Form1.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\Form1.cs",
+              "RelativeToolTip": "GUICW\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAxwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:44:23.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CRStudent.rpt",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\CRStudent.rpt",
+              "RelativeDocumentMoniker": "GUICW\\CRStudent.rpt",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\CRStudent.rpt",
+              "RelativeToolTip": "GUICW\\CRStudent.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-07-21T12:33:45.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CRGradeReport.rpt",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\CRGradeReport.rpt",
+              "RelativeDocumentMoniker": "GUICW\\CRGradeReport.rpt",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\CRGradeReport.rpt",
+              "RelativeToolTip": "GUICW\\CRGradeReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-07-21T12:27:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmViewGrade.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewGrade.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmViewGrade.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewGrade.cs",
+              "RelativeToolTip": "GUICW\\frmViewGrade.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:23:42.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmViewMarks.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewMarks.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmViewMarks.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewMarks.cs",
+              "RelativeToolTip": "GUICW\\frmViewMarks.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:23:26.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmStudentLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStudentLogin.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmStudentLogin.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStudentLogin.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmStudentLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T06:03:42.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmViewStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewStudent.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmViewStudent.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewStudent.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmViewStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:17:54.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmViewMarks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewMarks.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmViewMarks.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewMarks.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmViewMarks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:17:54.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmViewGrade.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewGrade.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmViewGrade.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewGrade.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmViewGrade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:17:53.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmViewExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewExam.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmViewExam.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmViewExam.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmViewExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:17:52.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmStudentDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStudentDash.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmStudentDash.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStudentDash.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmStudentDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:17:45.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmStdViewGrade.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStdViewGrade.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmStdViewGrade.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStdViewGrade.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmStdViewGrade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:17:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmStdloginDet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStdloginDet.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmStdloginDet.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStdloginDet.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmStdloginDet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:16:13.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmLecLoginDet.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmLecLoginDet.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmLecLoginDet.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmLecLoginDet.cs",
+              "RelativeToolTip": "GUICW\\frmLecLoginDet.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAvwEoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:13:43.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLecLoginDet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmLecLoginDet.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmLecLoginDet.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmLecLoginDet.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmLecLoginDet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:13:39.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmLecLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmLecLogin.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmLecLogin.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmLecLogin.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmLecLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:12:27.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmGradeReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmGradeReport.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmGradeReport.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmGradeReport.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmGradeReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:12:25.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChangeWEDate.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeWEDate.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmChangeWEDate.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeWEDate.cs",
+              "RelativeToolTip": "GUICW\\frmChangeWEDate.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAnwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:12:06.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChangeWEDate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeWEDate.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmChangeWEDate.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeWEDate.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmChangeWEDate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:11:50.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmChangeCWDate.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeCWDate.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmChangeCWDate.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeCWDate.cs",
+              "RelativeToolTip": "GUICW\\frmChangeCWDate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:10:02.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmChangeCWDate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeCWDate.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmChangeCWDate.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmChangeCWDate.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmChangeCWDate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:09:59.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmAdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminLogin.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAdminLogin.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminLogin.cs",
+              "RelativeToolTip": "GUICW\\frmAdminLogin.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:08:23.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmAdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminLogin.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAdminLogin.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAdminLogin.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmAdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T04:08:17.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddStd.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddStd.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddStd.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddStd.cs",
+              "RelativeToolTip": "GUICW\\frmAddStd.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:59:05.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddStd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddStd.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddStd.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddStd.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmAddStd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:58:43.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAddMarks.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddMarks.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddMarks.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddMarks.cs",
+              "RelativeToolTip": "GUICW\\frmAddMarks.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAvwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T14:00:21.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmStdloginDet.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStdloginDet.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmStdloginDet.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmStdloginDet.cs",
+              "RelativeToolTip": "GUICW\\frmStdloginDet.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:59:19.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddMarks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddMarks.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddMarks.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddMarks.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmAddMarks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:50:51.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmAddLec.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddLec.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddLec.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddLec.cs",
+              "RelativeToolTip": "GUICW\\frmAddLec.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:49:12.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmAddLec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddLec.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddLec.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddLec.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmAddLec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:48:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmAddExam.cs",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddExam.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddExam.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddExam.cs",
+              "RelativeToolTip": "GUICW\\frmAddExam.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:43:02.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmAddExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddExam.cs",
+              "RelativeDocumentMoniker": "GUICW\\frmAddExam.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\frmAddExam.cs [Design]",
+              "RelativeToolTip": "GUICW\\frmAddExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:42:54.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\Form1.cs",
+              "RelativeDocumentMoniker": "GUICW\\Form1.cs",
+              "ToolTip": "C:\\Users\\nazee\\source\\repos\\GUICW\\GUICW\\Form1.cs [Design]",
+              "RelativeToolTip": "GUICW\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:42:50.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
